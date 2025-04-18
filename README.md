@@ -1,7 +1,6 @@
 # FAQ Black Market
-![Black_Market_Karama_Banner_1600x](https://github.com/user-attachments/assets/4b3fed4a-6901-49fe-89d9-4cc3cb467327)
 # Rules, Terms of Use, and Contact Information
-
+![Black_Market_Karama_Banner_1600x](https://github.com/user-attachments/assets/4b3fed4a-6901-49fe-89d9-4cc3cb467327)
 ## Purchase Verification
 Before making a purchase, please ensure you are buying from [Tor.Ceo](https://tor.ceo).  
 **Warning**: Beware of **SCAMMERS** and **IMPERSONATORS**. They are widespread.  
