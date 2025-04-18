@@ -1,5 +1,5 @@
 # FAQ Black Market
-
+![Black_Market_Karama_Banner_1600x](https://github.com/user-attachments/assets/4b3fed4a-6901-49fe-89d9-4cc3cb467327)
 # Rules, Terms of Use, and Contact Information
 
 ## Purchase Verification
@@ -83,4 +83,3 @@ Sellers with a bad reputation face strict action from **Administrators**.
 
 ## Community Rules
 **HONESTY, REPUTATION, NO SCAMMING, ENTHUSIASTIC SUPPORT, NO DISCRIMINATION, NO CONSPIRACIES, NO DECEPTION, CLEAR WORK.**
-```
